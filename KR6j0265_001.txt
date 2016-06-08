@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:02.256028
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:42
 #+TITLE: 千手千眼觀世音菩薩大身呪本
 #+PROPERTY: CBETA_ID T20n1062A
 #+PROPERTY: ID KR6j0265
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1062A
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0265_T_000-0113c>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0265_T_001-0113c> ¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1062A[cf.Nos.1056-1058,1060,1061,¶
-1062B-1064]¶
-
- 千手千眼觀世音菩薩大身呪本¶
+No. 1062A [cf. Nos. 1056-1058, 1060, 1061,¶
+ 1062B-1064]¶
+千手千眼觀世音菩薩大身呪本¶
 (出大悲經中卷)¶
 ¶
 大唐贈開府儀同三司諡大弘教¶
